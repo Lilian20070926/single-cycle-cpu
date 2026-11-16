@@ -1,0 +1,5 @@
+build/
+*.vcd
+test/*.imem.hex
+test/*.dmem.hex
+test/*.expect
